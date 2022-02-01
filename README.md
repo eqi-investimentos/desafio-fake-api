@@ -1,4 +1,4 @@
-# EQI Simulador de Investimento API
+# EQI Simulador de Investimentos API
 Este repositório contém uma simples API para o desafio de front-end da EQI Investimentos.
 
 Requisitos:
