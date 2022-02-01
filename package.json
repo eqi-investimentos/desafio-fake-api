@@ -1,0 +1,14 @@
+{
+  "name": "desafio-fake-api",
+  "version": "1.0.0",
+  "description": "Api com dados fakes para o desafio proposto pela EQI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EQI Tech",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
